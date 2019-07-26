@@ -1,0 +1,25 @@
+{
+  "name": "sen-web",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento academico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errejota10/sen-web.git"
+  },
+  "keywords": [
+    "gerenciamento",
+    "academico",
+    "alunos",
+    "escola"
+  ],
+  "author": "Robson B de Gouveia Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Errejota10/sen-web/issues"
+  },
+  "homepage": "https://github.com/Errejota10/sen-web#readme"
+}
